@@ -1,2 +1,2 @@
-# libpuroto
-LibPuroto - a shared code base for puroto's backend services
+# meltdown
+meltdown - the posts and profile API of Puroto
